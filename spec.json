@@ -1,0 +1,50 @@
+{
+    "name":  "stepsnap",
+    "logo":  "👣",
+    "exe":  "StepSnap.exe",
+    "desc":  "Free, open-source step-by-step guide maker for Windows — capture clicks into annotated how-tos offline. 100 MB portable, MIT.",
+    "topics":  [
+                   "step-by-step-guide",
+                   "how-to-maker",
+                   "screenshot-documentation",
+                   "scribe-alternative",
+                   "screen-capture",
+                   "documentation",
+                   "teaching",
+                   "windows",
+                   "windows-10",
+                   "windows-11",
+                   "csharp",
+                   "dotnet",
+                   "click-capture",
+                   "annotation",
+                   "knowledge-base",
+                   "portable",
+                   "open-source",
+                   "mit-license"
+               ],
+    "features":  [
+                     "✅ **Auto-capture on click** — every click while recording becomes a numbered screenshot with the cursor highlighted",
+                     "✅ **Blur and redact** — one drag hides names, emails or keys before the guide is shared",
+                     "✅ **Editable step text** — rewrites are plain sentence editing; no screenshot surgery to fix a typo",
+                     "✅ **Export to many shapes** — PDF, HTML, Markdown with images, or DOCX for corporate templates",
+                     "✅ **Pause and touch-up** — pause the recorder, delete a bad step, reorder by dragging",
+                     "✅ **Local knowledge base** — guides saved as folders on disk; no cloud account, no per-guide paywall",
+                     "✅ **100 MB self-contained exe** — runtime and capture engine bundled, portable, offline, MIT with SHA-256 releases"
+                 ],
+    "compare":  [
+                    "| Feature | **stepsnap** | Scribe | Clarify | StepShot |",
+                    "|---|:---:|:---:|:---:|:---:|",
+                    "| Price | **Free, MIT** | Freemium | Paid | Paid |",
+                    "| Open source | **Yes** | No | No | No |",
+                    "| Local-first, no account | **Yes** | No | No | Partial |",
+                    "| Markdown and DOCX export | **Yes** | Partial | No | Yes |",
+                    "| Blur and redact built in | **Yes** | Partial | Yes | Yes |",
+                    "| Portable, no install | **Yes, 100 MB** | Web or app | Web | Installer |"
+                ],
+    "faqQ":  "how to create a step-by-step guide with screenshots for free?",
+    "faqA":  "Scribe and similar tools keep your screenshots in their cloud and meter exports, which is awkward for internal processes. stepsnap records clicks locally, numbers every step, lets you blur sensitive fields and exports PDF, HTML, Markdown or DOCX with no account. It is a 100 MB portable exe under MIT.",
+    "s1":  "Dark recorder (#121418, lime #84CC16): armed REC chip, step list left with thumbnails 1 through 7, click highlight toggle on, pause button center.",
+    "s2":  "Editor view: enlarged step screenshot with numbered bubble, blur box dragged over an email, caption field below, reorder drag handles.",
+    "s3":  "Export panel: PDF, HTML, Markdown and DOCX cards, image quality selector, guide metadata fields, success toast reading 7 steps exported."
+}
